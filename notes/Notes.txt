@@ -1,0 +1,8 @@
+How To Create a Signup Confirmation Email With Node.js
+
+Link: - https://betterprogramming.pub/how-to-create-a-signup-confirmation-email-with-node-js-c2fea602872a
+
+
+How to impliment forgot password and email reset link
+
+https://dev.to/jahangeer/how-to-implement-password-reset-via-email-in-node-js-132m

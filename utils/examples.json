@@ -1,0 +1,30 @@
+[
+    {
+        "description": " please delete this line. It is for signup the admin", 
+        "name": "diganta chaudhuri",
+        "email": "digantachaudhuri03@gmail.com",
+        "password": "diganta123",
+        "confirmPassword": "diganta123",
+        "role": "admin"
+    },
+    {
+        "description": " please delete this line. It is for login the user", 
+        "email": "digantachaudhuri03@gmail.com",
+        "password": "diganta1234"
+    },
+    {
+        "description": " please delete this line. It is for signup the user",
+        "name": "samrat mondal",
+        "email": "mebopal654@ningame.com",
+        "password": "samrat123",
+        "confirmPassword": "samrat123",
+        "role": "user"
+    },
+    {
+        "name": "samrat mondal 2",
+        "email": "samrat@ningame.com",
+        "password": "samrat123",
+        "confirmPassword": "samrat123",
+        "role": "user"
+    }
+]
